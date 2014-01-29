@@ -96,9 +96,9 @@ two-thirds of the members present.
 
 (7). Judgment in cases of impeachment shall not extend further than to
 removal from office, and disqualification to hold and enjoy any office
-of honor, trust, or profit under the United States: but the party
+of honor, trust, or profit under the United States; but the party
 convicted shall nevertheless be liable and subject to indictment, trial,
-judgment and punishment, according to law.
+judgment and punishment according to law.
 
 ### Section 4
 
@@ -138,7 +138,7 @@ place than that in which the two Houses shall be sitting.
 
 (1). The Senators and Representatives shall receive a compensation for
 their services, to be ascertained by law, and paid out of the Treasury
-of the United States. They shall in all cases, except treason, felony
+of the United States. They shall in all cases, except treason, felony,
 and breach of the peace, be privileged from arrest during their
 attendance at the session of their respective Houses, and in going to
 and returning from the same; and for any speech or debate in either
@@ -205,8 +205,8 @@ throughout the United States:
 
 (2). To borrow money on the credit of the United States.
 
-(3). To regulate commerce with foreign nations, and among the several
-states, and with the Indian tribes.
+(3). To regulate commerce with foreign nations, and among the several states, and with the Indian tribes.
+
 
 
 
@@ -239,7 +239,7 @@ respective writings and discoveries.
 (9). To constitute tribunals inferior to the Supreme Court.
 
 (10). To define and punish piracies and felonies committed on the high
-seas, and offences against the law of nations.
+seas, and offenses against the law of nations.
 
 (11). To declare war, grant letters of marque and reprisal, and make
 rules concerning captures on land and water.
@@ -252,8 +252,8 @@ use shall be for a longer term than two years.
 (14). To make rules for the government and regulation of the land and
 naval forces.
 
-(15). To provide for calling forth the militia to execute the laws of the
-union, suppress insurrections and repel invasions.
+(15). To provide for calling forth the militia to execute the laws of
+the union, suppress insurrections and repel invasions.
 
 (16). To provide for organizing, arming and disciplining the militia,
 and for governing such part of them as may be employed in the service of
@@ -618,10 +618,10 @@ of the executive authority of the state from which he fled, be delivered
 up, to be removed to the state having jurisdiction of the crime.
 
 
-(3). No person held to service or labour in one state, under the laws thereof, 
+(3). No person held to service or labor in one state, under the laws thereof, 
 escaping into another, shall, in consequence of any law or regulation therein,
 be discharged from such service or labor, but shall
-be delivered up on claim of the party to whom such service or labour may be due.
+be delivered up on claim of the party to whom such service or labor may be due.
 
 ### Section 3
 
