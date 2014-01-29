@@ -9,13 +9,17 @@ secure the blessings of liberty to ourselves and our posterity invoking
 the favor and guidance of Almighty God do ordain and establish this
 Constitution for the Confederate States of America.
 
-### Article I
+## ARTICLE I
 
-Section I. All legislative powers herein delegated shall be vested in a
+### Section 1
+
+All legislative powers herein delegated shall be vested in a
 Congress of the Confederate States, which shall consist of a Senate and
 House of Representatives.
 
-Sec. 2. (I) The House of Representatives shall be composed of members
+### Section 2
+
+(1). The House of Representatives shall be composed of members
 chosen every second year by the people of the several States; and the
 electors in each State shall be citizens of the Confederate States, and
 have the qualifications requisite for electors of the most numerous
@@ -23,17 +27,17 @@ branch of the State Legislature; but no person of foreign birth, not a
 citizen of the Confederate States, shall be allowed to vote for any
 officer, civil or political, State or Federal.
 
-(2) No person shall be a Representative who shall not have attained the
+(2). No person shall be a Representative who shall not have attained the
 age of twenty-five years, and be a citizen of the Confederate States,
-and who shall not when elected, be an inhabitant of that State in which
+and who shall not, when elected, be an inhabitant of that State in which
 he shall be chosen.
 
-(3) Representatives and direct taxes shall be apportioned among the
-several States, which may be included within this Confederacy, according
-to their respective numbers, which shall be determined by adding to the
-whole number of free persons, including those bound to service for a
+(3). Representatives and direct taxes shall be apportioned among the
+several States which may be included within this Confederacy, according to
+their respective numbers, which shall be determined by adding
+to the whole number of free persons, including those bound to service for a
 term of years, and excluding Indians not taxed, three-fifths of all
-slaves. ,The actual enumeration shall be made within three years after
+slaves. The actual enumeration shall be made within three years after
 the first meeting of the Congress of the Confederate States, and within
 every subsequent term of ten years, in such manner as they shall by law
 direct. The number of Representatives shall not exceed one for every
@@ -43,23 +47,26 @@ shall be entitled to choose six; the State of Georgia ten; the State of
 Alabama nine; the State of Florida two; the State of Mississippi seven;
 the State of Louisiana six; and the State of Texas six.
 
-(4) When vacancies happen in the representation from any State the
+
+
+(4). When vacancies happen in the representation from any State, the
 executive authority thereof shall issue writs of election to fill such
 vacancies.
 
-(5) The House of Representatives shall choose their Speaker and other
+(5). The House of Representatives shall choose their Speaker and other
 officers; and shall have the sole power of impeachment; except that any
 judicial or other Federal officer, resident and acting solely within the
 limits of any State, may be impeached by a vote of two-thirds of both
 branches of the Legislature thereof.
 
-Sec. 3. (I) The Senate of the Confederate States shall be composed of
-two Senators from each State, chosen for six years by the Legislature
-thereof, at the regular session next immediately preceding the
-commencement of the term of service; and each Senator shall have one
-vote.
+### Section 3
 
-(2) Immediately after they shall be assembled, in consequence of the
+(1). The Senate of the Confederate States shall be composed of
+two Senators from each State, chosen for six years by the Legislature thereof,
+at the regular session next immediately preceding the commencement of the term of service;
+and each Senator shall have one vote.
+
+(2). Immediately after they shall be assembled, in consequence of the
 first election, they shall be divided as equally as may be into three
 classes. The seats of the Senators of the first class shall be vacated
 at the expiration of the second year; of the second class at the
@@ -70,99 +77,106 @@ of the Legislature of any State, the Executive thereof may make
 temporary appointments until the next meeting of the Legislature, which
 shall then fill such vacancies.
 
-(3) No person shall be a Senator who shall not have attained the age of
-thirty years, and be a citizen of the Confederate States; and who shall
-not, then elected, be an inhabitant of the State for which he shall be
-chosen.
+(3). No person shall be a Senator who shall not have attained the age of
+thirty years, and be a citizen of the Confederate States; and who shall not,
+then elected, be an inhabitant of the State for which he shall be chosen.
 
-(4) The Vice President of the Confederate States shall be president of
-the Senate, but shall have no vote unless they be equally divided.
+(4). The Vice President of the Confederate States shall be president of
+the Senate, but shall have no vote, unless they be equally divided.
 
-(5) The Senate shall choose their other officers; and also a president
-pro tempore in the absence of the Vice President, or when he shall
+(5). The Senate shall choose their other officers, and also a President
+pro tempore, in the absence of the Vice President, or when he shall
 exercise the office of President of the Confederate states.
 
-(6) The Senate shall have the sole power to try all impeachments. When
+(6). The Senate shall have the sole power to try all impeachments. When
 sitting for that purpose, they shall be on oath or affirmation. When the
 President of the Confederate States is tried, the Chief Justice shall
 preside; and no person shall be convicted without the concurrence of
 two-thirds of the members present.
 
-(7) Judgment in cases of impeachment shall not extend further than to
-removal from office, and disqualification to hold any office of honor,
-trust, or profit under the Confederate States; but the party convicted
-shall, nevertheless, be liable and subject to indictment, trial,
+(7). Judgment in cases of impeachment shall not extend further than to
+removal from office, and disqualification to hold any office
+of honor, trust, or profit under the Confederate States; but the party
+convicted shall, nevertheless, be liable and subject to indictment, trial,
 judgment, and punishment according to law.
 
-Sec. 4. (I) The times, places, and manner of holding elections for
-Senators and Representatives shall be prescribed in each State by the
-Legislature thereof, subject to the provisions of this Constitution; but
-the Congress may, at any time, by law, make or alter such regulations,
+### Section 4
+
+(1). The times, places, and manner of holding elections for Senators and 
+Representatives shall be prescribed in each State by the Legislature thereof, subject to the provisions of this Constitution;
+but the Congress may, at any time, by law, make or alter such regulations,
 except as to the times and places of choosing Senators.
 
-(2) The Congress shall assemble at least once in every year; and such
-meeting shall be on the first Monday in December, unless they shall, by
-law, appoint a different day.
+(2). The Congress shall assemble at least once in every year, and such
+meeting shall be on the first Monday in December, unless they shall
+by law appoint a different day.
 
-Sec. 5. (I) Each House shall be the judge of the elections, returns, and
+### Section 5
+
+(1). Each House shall be the judge of the elections, returns and
 qualifications of its own members, and a majority of each shall
 constitute a quorum to do business; but a smaller number may adjourn
 from day to day, and may be authorized to compel the attendance of
-absent members, in such manner and under such penalties as each House
+absent members, in such manner, and under such penalties as each House
 may provide.
 
-(2) Each House may determine the rules of its proceedings, punish its
-members for disorderly behavior, and, with the concurrence of two-thirds
-of the whole number, expel a member.
+(2). Each House may determine the rules of its proceedings, punish its
+members for disorderly behavior, and, with the concurrence of two-thirds of the whole number,
+expel a member.
 
-(3) Each House shall keep a journal of its proceedings, and from time
-to time publish the same, excepting such parts as may in their judgment
-require secrecy; and the yeas and nays of the members of either House,
+(3). Each House shall keep a journal of its proceedings, and from time to
+time publish the same, excepting such parts as may in their judgment
+require secrecy; and the yeas and nays of the members of either House
 on any question, shall, at the desire of one-fifth of those present, be
 entered on the journal.
 
-(4) Neither House, during the session of Congress, shall, without the
+(4). Neither House, during the session of Congress, shall, without the
 consent of the other, adjourn for more than three days, nor to any other
 place than that in which the two Houses shall be sitting.
 
-Sec. 6. (I) The Senators and Representatives shall receive a
-compensation for their services, to be ascertained by law, and paid out
-of the Treasury of the Confederate States. They shall, in all cases,
-except treason, felony, and breach of the peace, be privileged from
-arrest during their attendance at the session of their respective
-Houses, and in going to and returning from the same; and for any speech
-or debate in either House, they shall not be questioned in any other
-place. 'o Senator or Representative shall, during the time for which he
-was elected, be appointed to any civil office under the authority of the
+### Section 6
+
+(1). The Senators and Representatives shall receive a compensation for
+their services, to be ascertained by law, and paid out of the Treasury
+of the Confederate States. They shall, in all cases, except treason, felony,
+and breach of the peace, be privileged from arrest during their
+attendance at the session of their respective Houses, and in going to
+and returning from the same; and for any speech or debate in either
+House, they shall not be questioned in any other place.
+
+(2). No Senator or Representative shall, during the time for which he was
+elected, be appointed to any civil office under the authority of the
 Confederate States, which shall have been created, or the emoluments
-whereof shall have been increased during such time; and no person
-holding any office under the Confederate States shall be a member of
-either House during his continuance in office. But Congress may, by law,
-grant to the principal officer in each of the Executive Departments a
-seat upon the floor of either House, with the privilege of discussing
+whereof shall have been increased during such time;
+and no person holding any office under the Confederate States shall be a member of
+either House during his continuance in office.
+But Congress may, by law, grant to the principal officer in each of the Executive 
+Departments a seat upon the floor of either House, with the privilege of discussing
 any measures appertaining to his department.
 
-Sec. 7. (I) All bills for raising revenue shall originate in the House
-of Representatives; but the Senate may propose or concur with
-amendments, as on other bills.
+### Section 7
 
-(2) Every bill which shall have passed both Houses, shall, before it
-becomes a law, be presented to the President of the Confederate States;
-if he approve, he shall sign it; but if not, he shall return it, with
-his objections, to that House in which it shall have originated, who
-shall enter the objections at large on their journal, and proceed to
-reconsider it. If, after such reconsideration, two-thirds of that House
-shall agree to pass the bill, it shall be sent, together with the
-objections, to the other House, by which it shall likewise be
-reconsidered, and if approved by two-thirds of that House, it shall
-become a law. But in all such cases, the votes of both Houses shall be
-determined by yeas and nays, and the names of the persons voting for and
-against the bill shall be entered on the journal of each House
-respective}y. If any bill shall not be returned by the President within
-ten days (Sundays excepted) after it shall have been presented to him,
-the same shall be a law, in like manner as if he had signed it, unless
-the Congress, by their adjournment, prevent its return; in which case it
-shall not be a law. The President may approve any appropriation and
+(1). All bills for raising revenue shall originate in the House of
+Representatives; but the Senate may propose or concur with amendments
+as on other bills.
+
+(2). Every bill which shall have passed both Houses,
+shall, before it becomes a law, be presented to the President of the Confederate States;
+if he approve, he shall sign it, but if not, he shall return it,
+with his objections, to that House in which it shall
+have originated, who shall enter the objections at large on their
+journal, and proceed to reconsider it. If after such reconsideration,
+two thirds of that house shall agree to pass the bill, it shall be sent,
+together with the objections, to the other house, by which it shall
+likewise be reconsidered, and if approved by two-thirds of that house,
+it shall become a law. But in all such cases, the votes of both houses
+shall be determined by yeas and nays, and the names of the persons
+voting for and against the bill shall be entered on the journal of each
+house respectively. If any bill shall not be returned by the president
+within ten days (Sundays excepted) after it shall have been presented to
+him, the same shall be a law, in like manner as if he had signed it,
+unless the Congress by their adjournment, prevent its return, in which
+case it shall not be a law. The President may approve any appropriation and
 disapprove any other appropriation in the same bill. In such case he
 shall, in signing the bill, designate the appropriations disapproved;
 and shall return a copy of such appropriations, with his objections, to
@@ -170,26 +184,28 @@ the House in which the bill shall have originated; and the same
 proceedings shall then be had as in case of other bills disapproved by
 the President.
 
-(3) Every order, resolution, or vote, to which the concurrence of both
-Houses may be necessary (except on a question of adjournment) shall be
-presented to the President of the Confederate States; and before the
-same shall take effect, shall be approved by him; or, being disapproved
-by him, shall be repassed by two-thirds of both Houses, according to the
-rules and limitations prescribed in case of a bill.
+(3). Every order, resolution, or vote to which the concurrence of both Houses may be necessary
+(except on a question of adjournment) shall be presented to the president of the 
+Confederate States; and before the same shall take effect, shall be approved
+by him, or, being disapproved by him, shall be re-passed by two-thirds
+of both Houses, according to the rules and
+limitations prescribed in case of a bill.
 
-Sec. 8. The Congress shall have power-
+### Section 8
 
-(I) To lay and collect taxes, duties, imposts, and excises for revenue,
-necessary to pay the debts, provide for the common defense, and carry on
+The Congress shall have power
+
+(1). To lay and collect taxes, duties, imposts, and excises
+for revenue, necessary to pay the debts, provide for the common defense, and carry on
 the Government of the Confederate States; but no bounties shall be
 granted from the Treasury; nor shall any duties or taxes on importations
 from foreign nations be laid to promote or foster any branch of
 industry; and all duties, imposts, and excises shall be uniform
 throughout the Confederate States.
 
-(2) To borrow money on the credit of the Confederate States.
+(2). To borrow money on the credit of the Confederate States.
 
-(3) To regulate commerce with foreign nations, and among the several
+(3). To regulate commerce with foreign nations, and among the several
 States, and with the Indian tribes; but neither this, nor any other
 clause contained in the Constitution, shall ever be construed to
 delegate the power to Congress to appropriate money for any internal
@@ -200,96 +216,100 @@ obstructions in river navigation; in all which cases such duties shall
 be laid on the navigation facilitated thereby as may be necessary to pay
 the costs and expenses thereof.
 
-(4) To establish uniform laws of naturalization, and uniform laws on
+(4). To establish uniform laws of naturalization, and uniform laws on
 the subject of bankruptcies, throughout the Confederate States; but no
 law of Congress shall discharge any debt contracted before the passage
 of the same.
 
-(5) To coin money, regulate the value thereof, and of foreign coin, and
+(5). To coin money, regulate the value thereof, and of foreign coin, and
 fix the standard of weights and measures.
 
-(6) To provide for the punishment of counterfeiting the securities and
+(6). To provide for the punishment of counterfeiting the securities and
 current coin of the Confederate States.
 
-(7) To establish post offices and post routes; but the expenses of the
+(7). To establish post offices and post routes; but the expenses of the
 Post Office Department, after the Ist day of March in the year of our
 Lord eighteen hundred and sixty-three, shall be paid out of its own
 revenues.
 
-(8) To promote the progress of science and useful arts, by securing for
+(8). To promote the progress of science and useful arts, by securing for
 limited times to authors and inventors the exclusive right to their
 respective writings and discoveries.
 
-(9) To constitute tribunals inferior to the Supreme Court.
+(9). To constitute tribunals inferior to the Supreme Court.
 
-(10) To define and punish piracies and felonies committed on the high
+(10). To define and punish piracies and felonies committed on the high
 seas, and offenses against the law of nations.
 
-(11) To declare war, grant letters of marque and reprisal, and make
+(11). To declare war, grant letters of marque and reprisal, and make
 rules concerning captures on land and water.
 
-(12) To raise and support armies; but no appropriation of money to that
+(12). To raise and support armies, but no appropriation of money to that
 use shall be for a longer term than two years.
 
-(13) To provide and maintain a navy.
+(13). To provide and maintain a navy.
 
-(14) To make rules for the government and regulation of the land and
+(14). To make rules for the government and regulation of the land and
 naval forces.
 
-(15) To provide for calling forth the militia to execute the laws of
+(15). To provide for calling forth the militia to execute the laws of
 the Confederate States, suppress insurrections, and repel invasions.
 
-(16) To provide for organizing, arming, and disciplining the militia,
+(16). To provide for organizing, arming, and disciplining the militia,
 and for governing such part of them as may be employed in the service of
 the Confederate States; reserving to the States, respectively, the
 appointment of the officers, and the authority of training the militia
 according to the discipline prescribed by Congress.
 
-(17) To exercise exclusive legislation, in all cases whatsoever, over
-such district (not exceeding ten miles square) as may, by cession of one
-or more States and the acceptance of Congress, become the seat of the
-Government of the Confederate States; and to exercise like authority
-over all places purchased by the consent of the Legislature of the State
-in which the same shall be, for the . erection of forts, magazines,
-arsenals, dockyards, and other needful buildings; and
+(17). To exercise exclusive legislation in all cases whatsoever, over
+such district (not exceeding ten miles square) as may, by cession of
+one or more States and the acceptance of Congress, become the seat of
+the Government of the Confederate States; and to exercise like authority over
+all places purchased by the consent of the legislature of the state in
+which the same shall be, for the erection of forts, magazines, arsenals,
+dock-yards, and other needful buildings: And,
 
-(18) To make all laws which shall be necessary and proper for carrying
+(18). To make all laws which shall be necessary and proper for carrying
 into execution the foregoing powers, and all other powers vested by this
 Constitution in the Government of the Confederate States, or in any
 department or officer thereof.
 
-Sec. 9. (I) The importation of negroes of the African race from any
+### Section 9
+
+(1). The importation of negroes of the African race from any
 foreign country other than the slaveholding States or Territories of the
 United States of America, is hereby forbidden; and Congress is required
 to pass such laws as shall effectually prevent the same.
 
-(2) Congress shall also have power to prohibit the introduction of
+(2). Congress shall also have power to prohibit the introduction of
 slaves from any State not a member of, or Territory not belonging to,
 this Confederacy.
 
-(3) The privilege of the writ of habeas corpus shall not be suspended,
+(3). The privilege of the writ of habeas corpus shall not be suspended,
 unless when in cases of rebellion or invasion the public safety may
 require it.
 
-(4) No bill of attainder, ex post facto law, or law denying or
+(4). No bill of attainder, ex post facto law, or law denying or
 impairing the right of property in negro slaves shall be passed.
 
-(5) No capitation or other direct tax shall be laid, unless in
-proportion to the census or enumeration hereinbefore directed to be
+(5). No capitation or other direct tax shall be laid, unless in
+proportion to the census or enumeration herein before directed to be
 taken.
 
-(6) No tax or duty shall be laid on articles exported from any State,
+(6). No tax or duty shall be laid on articles exported from any State,
 except by a vote of two-thirds of both Houses.
 
-(7) No preference shall be given by any regulation of commerce or
+(7). No preference shall be given by any regulation of commerce or
 revenue to the ports of one State over those of another.
 
-(8) No money shall be drawn from the Treasury, but in consequence of
+
+
+(8). No money shall be drawn from the Treasury, but in consequence of
 appropriations made by law; and a regular statement and account of the
 receipts and expenditures of all public money shall be published from
 time to time.
 
-(9) Congress shall appropriate no money from the Treasury except by a
+(9). Congress shall appropriate no money from the Treasury except by a
 vote of two-thirds of both Houses, taken by yeas and nays, unless it be
 asked and estimated for by some one of the heads of departments and
 submitted to Congress by the President; or for the purpose of paying its
@@ -298,38 +318,37 @@ Confederate States, the justice of which shall have been judicially
 declared by a tribunal for the investigation of claims against the
 Government, which it is hereby made the duty of Congress to establish.
 
-(10) All bills appropriating money shall specify in Federal currency
+(10). All bills appropriating money shall specify in Federal currency
 the exact amount of each appropriation and the purposes for which it is
 made; and Congress shall grant no extra compensation to any public
 contractor, officer, agent, or servant, after such contract shall have
 been made or such service rendered.
 
-(11) No title of nobility shall be granted by the Confederate States;
-and no person holding any office of profit or trust under them shall,
+(11). No title of nobility shall be granted by the Confederate States; and no
+person holding any office of profit or trust under them, shall,
 without the consent of the Congress, accept of any present, emolument,
-office, or title of any kind whatever, from any king, prince, or foreign
-state.
+office, or title of any kind whatever, from any king, prince, or foreign state.
 
-(12) Congress shall make no law respecting an establishment of
+(12). Congress shall make no law respecting an establishment of
 religion, or prohibiting the free exercise thereof; or abridging the
 freedom of speech, or of the press; or the right of the people peaceably
 to assemble and petition the Government for a redress of grievances.
 
-(13) A well-regulated militia being necessary to the security of a free
+(13). A well-regulated militia being necessary to the security of a free
 State, the right of the people to keep and bear arms shall not be
 infringed.
 
-(14) No soldier shall, in time of peace, be quartered in any house
+(14). No soldier shall, in time of peace, be quartered in any house
 without the consent of the owner; nor in time of war, but in a manner to
 be prescribed by law.
 
-(15) The right of the people to be secure in their persons, houses,
+(15). The right of the people to be secure in their persons, houses,
 papers, and effects, against unreasonable searches and seizures, shall
 not be violated; and no warrants shall issue but upon probable cause,
 supported by oath or affirmation, and particularly describing the place
 to be searched and the persons or things to be seized.
 
-(16) No person shall be held to answer for a capital or otherwise
+(16). No person shall be held to answer for a capital or otherwise
 infamous crime, unless on a presentment or indictment of a grand jury,
 except in cases arising in the land or naval forces, or in the militia,
 when in actual service in time of war or public danger; nor shall any
@@ -339,7 +358,7 @@ against himself; nor be deprived of life, liberty, or property without
 due process of law; nor shall private property be taken for public use,
 without just compensation.
 
-(17) In all criminal prosecutions the accused shall enjoy the right to
+(17). In all criminal prosecutions the accused shall enjoy the right to
 a speedy and public trial, by an impartial jury of the State and
 district wherein the crime shall have been committed, which district
 shall have been previously ascertained by law, and to be informed of the
@@ -347,31 +366,33 @@ nature and cause of the accusation; to be confronted with the witnesses
 against him; to have compulsory process for obtaining witnesses in his
 favor; and to have the assistance of counsel for his defense.
 
-(18) In suits at common law, where the value in controversy shall
+(18). In suits at common law, where the value in controversy shall
 exceed twenty dollars, the right of trial by jury shall be preserved;
 and no fact so tried by a jury shall be otherwise reexamined in any
 court of the Confederacy, than according to the rules of common law.
 
-(19) Excessive bail shall not be required, nor excessive fines imposed,
+(19). Excessive bail shall not be required, nor excessive fines imposed,
 nor cruel and unusual punishments inflicted.
 
-(20) Every law, or resolution having the force of law, shall relate to
+(20). Every law, or resolution having the force of law, shall relate to
 but one subject, and that shall be expressed in the title.
 
-Sec. 10. (I) No State shall enter into any treaty, alliance, or
-confederation; grant letters of marque and reprisal; coin money; make
-anything but gold and silver coin a tender in payment of debts; pass any
-bill of attainder, or ex post facto law, or law impairing the obligation
-of contracts; or grant any title of nobility.
+### Section 10
 
-(2) No State shall, without the consent of the Congress, lay any
-imposts or duties on imports or exports, except what may be absolutely
-necessary for executing its inspection laws; and the net produce of all
-duties and imposts, laid by any State on imports, or exports, shall be
-for the use of the Treasury of the Confederate States; and all such laws
-shall be subject to the revision and control of Congress.
+(1). No state shall enter into any treaty, alliance, or confederation;
+grant letters of marque and reprisal; coin money;
+make anything but gold and silver coin a tender in payment of debts;
+pass any bill of attainder, or ex post facto law, or law impairing
+the obligation of contracts, or grant any title of nobility.
 
-(3) No State shall, without the consent of Congress, lay any duty on
+(2). No state shall, without the consent of the Congress, lay any imposts
+or duties on imports or exports, except what may be absolutely necessary
+for executing its inspection laws; and the net produce of all duties and
+imposts, laid by any State on imports, or exports, shall be for the use
+of the Treasury of the Confederate States; and all such laws shall be subject
+to the revision and control of Congress.
+
+(3). No state shall, without the consent of Congress, lay any duty on
 tonnage, except on seagoing vessels, for the improvement of its rivers
 and harbors navigated by the said vessels; but such duties shall not
 conflict with any treaties of the Confederate States with foreign
@@ -384,21 +405,21 @@ delay. But when any river divides or flows through two or more States
 they may enter into compacts with each other to improve the navigation
 thereof.
 
-### ARTICLE II
+## ARTICLE II
 
-Section I. (I) The executive power shall be vested in a President of the
-Confederate States of America. He and the Vice President shall hold
-their offices for the term of six years; but the President shall not be
-reeligible. The President and Vice President shall be elected as
-follows:
+### Section 1
 
-(2) Each State shall appoint, in such manner as the Legislature thereof
+(1). The Executive power shall be vested in a President of the Confederate States of America.
+He and the Vice President shall hold their offices for the term of six years; but the President shall not be reeligible. The President and Vice President shall
+be elected as follows:
+
+(2). Each State shall appoint, in such manner as the Legislature thereof
 may direct, a number of electors equal to the whole number of Senators
 and Representatives to which the State may be entitled in the Congress;
 but no Senator or Representative or person holding an office of trust or
 profit under the Confederate States shall be appointed an elector.
 
-(3) The electors shall meet in their respective States and vote by
+(3). The electors shall meet in their respective States and vote by
 ballot for President and Vice President, one of whom, at least, shall
 not be an inhabitant of the same State with themselves; they shall name
 in their ballots the person voted for as President, and in distinct
@@ -407,17 +428,18 @@ distinct lists of all persons voted for as President, and of all persons
 voted for as Vice President, and of the number of votes for each, which
 lists they shall sign and certify, and transmit, sealed, to the seat of
 the Government of. the Confederate States, directed to the President of
-the Senate; the President of the Senate shall,in the presence of the
-Senate and House of Representatives, open all the certificates, and the
-votes shall then be counted; the person having the greatest number of
-votes for President shall be the President, if such number be a majority
-of the whole number of electors appointed; and if no person have such
+the Senate; the President of the Senate shall,
+in the presence of the Senate and House of Representatives, open all the
+certificates, and the votes shall then be counted. The person having the
+greatest number of votes for President shall be the President, if such number be
+a majority of the whole number of electors appointed; and if no person have such
 majority, then from the persons having the highest numbers, not
 exceeding three, on the list of those voted for as President, the House
 of Representatives shall choose immediately, by ballot, the President.
+
 But in choosing the President the votes shall be taken by States, the
-representation from each State having one vote; a quorum for this
-purpose shall consist of a member or members from two-thirds of the
+representation from each State having one vote; a quorum for
+this purpose shall consist of a member or members from two-thirds of the
 States, and a majority of all the States shall be necessary to a choice.
 And if the House of Representatives shall not choose a President,
 whenever the right of choice shall devolve upon them, before the 4th day
@@ -425,7 +447,7 @@ of March next following, then the Vice President shall act as President,
 as in case of the death, or other constitutional disability of the
 President.
 
-(4) The person having the greatest number of votes as Vice President
+(4). The person having the greatest number of votes as Vice President
 shall be the Vice President, if such number be a majority of the whole
 number of electors appointed; and if no person have a majority, then,
 from the two highest numbers on the list, the Senate shall choose the
@@ -433,62 +455,64 @@ Vice President; a quorum for the purpose shall consist of two-thirds of
 the whole number of Senators, and a majority of the whole number shall
 be necessary to a choice.
 
-(5) But no person constitutionally ineligible to the office of
+(5). But no person constitutionally ineligible to the office of
 President shall be eligible to that of Vice President of the Confederate
 States.
 
-(6) The Congress may determine the time of choosing the electors, and
+(6). The Congress may determine the time of choosing the electors, and
 the day on which they shall give their votes; which day shall be the
 same throughout the Confederate States.
 
-(7) No person except a natural-born citizen of the Confederate; States,
-or a citizen thereof at the time of the adoption of this Constitution,
-or a citizen thereof born in the United States prior to the 20th of
-December, 1860, shall be eligible to the office of President; neither
-shall any person be eligible to that office who shall not have attained
-the age of thirty-five years, and been fourteen years a resident within
-the limits of the Confederate States, as they may exist at the time of
-his election.
+(7). No person except a natural-born citizen of the Confederate States, or a citizen thereof
+at the time of the adoption of this Constitution, or a citizen thereof born in the United States prior to the 20th of December, 1860, shall be
+eligible to the office of President; neither shall any person be
+eligible to that office who shall not have attained the age of
+thirty-five years, and been fourteen years a resident within
+the limits of the Confederate States, as they may exist at the time of his election.
 
-(8) In case of the removal of the President from office, or of his
+(8). In case of the removal of the President from office, or of his
 death, resignation, or inability to discharge the powers and duties of
 said office, the same shall devolve on the Vice President; and the
-Congress may, by law, provide for the case of removal, death,
-resignation, or inability, both of the President and Vice President,
-declaring what officer shall then act as President; and such officer
-shall act accordingly until the disability be removed or a President
+Congress may by law provide for the case of removal, death, resignation,
+or inability, both of the President and Vice President, declaring what
+officer shall then act as President, and such officer shall act
+accordingly until the disability be removed or a President
 shall be elected.
 
-(9) The President shall, at stated times, receive for his services a
+(9). The President shall, at stated times, receive for his services a
 compensation, which shall neither be increased nor diminished during the
-period for which he shall have been elected; and he shall not receive
-within that period any other emolument from the Confederate States, or
-any of them.
+period for which he shall have been elected, and he shall not receive
+within that period any other emolument from the Confederate States,
+or any of them.
 
-(10) Before he enters on the execution of his office he shall take the
+(10). Before he enters on the execution of his office he shall take the
 following oath or affirmation:
 
-Sec. 2. (I) The President shall be Commander-in-Chief of the Army and
-Navy of the Confederate States, and of the militia of the several
-States, when called into the actual service of the Confederate States;
-he may require the opinion, in writing, of the principal officer in each
-of the Executive Departments, upon any subject relating to the duties of
-their respective offices; and he shall have power to grant reprieves and
-pardons for offenses against the Confederate States, except in cases of
-impeachment.
+"I do solemnly swear (or affirm) that I will faithfully execute the
+office of President of the Confederate States, and will to the best of my
+ability, preserve, protect, and defend the constitution thereof."
 
-(2) He shall have power, by and with the advice and consent of the
-Senate, to make treaties; provided two-thirds of the Senators present
+### Section 2
+
+(1). The President shall be Commander-in-Chief of the Army and Navy of
+the Confederate States, and of the militia of the several States, when called
+into the actual service of the Confederate States; he may require the
+opinion, in writing, of the principal officer in each of the executive
+departments, upon any subject relating to the duties of their respective
+offices, and he shall have power to grant reprieves and pardons for
+offenses against the Confederate States, except in cases of impeachment.
+
+(2). He shall have power, by and with the advice and consent of the
+Senate, to make treaties, provided two-thirds of the Senators present
 concur; and he shall nominate, and by and with the advice and consent of
-the Senate shall appoint, ambassadors, other public ministers and
+the Senate, shall appoint, ambassadors, other public ministers and
 consuls, judges of the Supreme Court, and all other officers of the
-Confederate States whose appointments are not herein otherwise provided
-for, and which shall be established by law; but the Congress may, by
+Confederate States whose appointments are not herein otherwise provided for,
+and which shall be established by law; but the Congress may, by
 law, vest the appointment of such inferior officers, as they think
-proper, in the President alone, in the courts of law, or in the heads of
-departments.
+proper, in the President alone, in the courts of law, or in the heads of departments.
 
-(3) The principal officer in each of the Executive Departments, and all
+(3). The principal officer in each of the Executive Departments, and all
 persons connected with the diplomatic service, may be removed from
 office at the pleasure of the President. All other civil officers of the
 Executive Departments may be removed at any time by the President, or
@@ -497,110 +521,121 @@ dishonesty, incapacity. inefficiency, misconduct, or neglect of duty;
 and when so removed, the removal shall be reported to the Senate,
 together with the reasons therefor.
 
-(4) The President shall have power to fill all vacancies that may
+(4). The President shall have power to fill all vacancies that may
 happen during the recess of the Senate, by granting commissions which
 shall expire at the end of their next session; but no person rejected by
 the Senate shall be reappointed to the same office during their ensuing
 recess.
 
-Sec. 3. (I) The President shall, from time to time, give to the Congress
+### Section 3
+
+(I) The President shall, from time to time, give to the Congress
 information of the state of the Confederacy, and recommend to their
 consideration such measures as he shall judge necessary and expedient;
 he may, on extraordinary occasions, convene both Houses, or either of
 them; and in case of disagreement between them, with respect to the time
-of adjournment, he may adjourn them to such time as he shall think
-proper; he shall receive ambassadors and other public ministers; he
+of adjournment, he may adjourn them to such time as he shall think proper;
+he shall receive ambassadors and other public ministers; he
 shall take care that the laws be faithfully executed, and shall
 commission all the officers of the Confederate States.
 
-Sec. 4. (I) The President, Vice President, and all civil officers of the
-Confederate States, shall be removed from office on impeachment for and
-conviction of treason, bribery, or other high crimes and misdemeanors.
+### Section 4
 
-### ARTICLE III
+The President, Vice President, and all civil officers of the Confederate States,
+shall be removed from office on impeachment for, and conviction of,
+treason, bribery, or other high crimes and misdemeanors.
 
-Section I. (I) The judicial power of the Confederate States shall be
+## ARTICLE III
+
+### Section 1
+
+The judicial power of the Confederate States shall be
 vested in one Supreme Court, and in such inferior courts as the Congress
 may, from time to time, ordain and establish. The judges, both of the
 Supreme and inferior courts, shall hold their offices during good
 behavior, and shall, at stated times, receive for their services a
-compensation which shall not be diminished during their continuance in
-office.
+compensation which shall not be diminished during their continuance in office.
 
-Sec. 2. (I) The judicial power shall extend to all cases arising under
-this Constitution, the laws of the Confederate States, and treaties
-made, or which shall be made, under their authority; to all cases
-affecting ambassadors, other public ministers and consuls; to all cases
-of admiralty and maritime jurisdiction; to controversies to which the
-Confederate States shall be a party; to controversies between two or
-more States; between a State and citizens of another State, where the
+### Section 2
+
+(1). The judicial power shall extend to all cases
+arising under this Constitution, the laws of the Confederate States,
+and treaties made, or which shall be made, under their authority; to all
+cases affecting ambassadors, other public ministers and consuls; to all
+cases of admiralty and maritime jurisdiction; to controversies to which
+the Confederate States shall be a party; to controversies between two or more
+states; between a State and citizens of another State, where the
 State is plaintiff; between citizens claiming lands under grants of
 different States; and between a State or the citizens thereof, and
 foreign states, citizens, or subjects; but no State shall be sued by a
 citizen or subject of any foreign state.
 
-(2) In all cases affecting ambassadors, other public ministers and
+(2). In all cases affecting ambassadors, other public ministers and
 consuls, and those in which a State shall be a party, the Supreme Court
 shall have original jurisdiction. In all the other cases before
 mentioned, the Supreme Court shall have appellate jurisdiction both as
-to law and fact, with such exceptions and under such regulations as the
+to law and fact, with such exceptions, and under such regulations as the
 Congress shall make.
 
-(3) The trial of all crimes, except in cases of impeachment, shall be
-by jury, and such trial shall be held in the State where the said crimes
-shall have been committed; but when not committed within any State, the
+(3). The trial of all crimes, except in cases of impeachment, shall be
+by jury, and such trial shall be held in the state where the said crimes
+shall have been committed; but when not committed within any state, the
 trial shall be at such place or places as the Congress may by law have
 directed.
 
-Sec. 3. (I) Treason against the Confederate States shall consist only in
+### Section 3
+
+(1). Treason against the Confederate States shall consist only in
 levying war against.them, or in adhering to their enemies, giving them
 aid and comfort. No person shall be convicted of treason unless on the
 testimony of two witnesses to the same overt act, or on confession in
 open court.
 
-(2) The Congress shall have power to declare the punishment of treason;
+(2). The Congress shall have power to declare the punishment of treason;
 but no attainder of treason shall work corruption of blood, or
 forfeiture, except during the life of the person attainted.
 
-### ARTICLE IV
+## ARTICLE IV
 
-Section I. (I) Full faith and credit shall be given in each State to the
-public acts, records, and judicial proceedings of every other State; and
+### Section 1
+
+Full faith and credit shall be given in each State to the public acts,
+records, and judicial proceedings of every other State; and
 the Congress may, by general laws, prescribe the manner in which such
 acts, records, and proceedings shall be proved, and the effect thereof.
 
-Sec. 2. (I) The citizens of each State shall be entitled to all the
-privileges and immunities of citizens in the several States; and shall
+### Section 2
+
+(1). The citizens of each state shall be entitled to all
+the privileges and immunities of citizens in the several States; and shall
 have the right of transit and sojourn in any State of this Confederacy,
 with their slaves and other property; and the right of property in said
 slaves shall not be thereby impaired.
 
-(2) A person charged in any State with treason, felony, or other crime
+(2). A person charged in any State with treason, felony, or other crime
 against the laws of such State, who shall flee from justice, and be
 found in another State, shall, on demand of the executive authority of
 the State from which he fled, be delivered up, to be removed to the
 State having jurisdiction of the crime.
 
-(3) No slave or other person held to service or labor in any State or
-Territory of the Confederate States, under the laws thereof, escaping or
-lawfully carried into another, shall, in consequence of any law or
-regulation therein, be discharged from such service or labor; but shall
-be delivered up on claim of the party to whom such slave belongs,. or to
-whom such service or labor may be due.
+(3). No slave or other person held to service or labor in any State or Territory of the Confederate States, under the laws thereof,
+escaping or lawfully carried into another, shall, in consequence of any law or regulation therein,
+be discharged from such service or labor, but shall
+be delivered up on claim of the party to whom such slave belongs, or to whom such service or labor may be due.
 
-Sec. 3. (I) Other States may be admitted into this Confederacy by a vote
-of two-thirds of the whole House of Representatives and two-thirds of
-the Senate, the Senate voting by States; but no new State shall be
-formed or erected within the jurisdiction of any other State, nor any
-State be formed by the junction of two or more States, or parts of
-States, without the consent of the Legislatures of the States concerned,
+### Section 3
+
+(1). Other States may be admitted into this Confederacy by a vote of two-thirds of the whole House of Representatives and two-thirds of the Senate, the Senate voting by States;
+but no new State shall be formed or erected within the jurisdiction of any other state,
+nor any State be formed by the junction of two or more states, or parts of states,
+without the consent of the legislatures of the states concerned,
 as well as of the Congress.
 
-(2) The Congress shall have power to dispose of and make allneedful
+(2). The Congress shall have power to dispose of and make all needful
 rules and regulations concerning the property of the Confederate States,
 including the lands thereof.
 
-(3) The Confederate States may acquire new territory; and Congress
+(3). The Confederate States may acquire new territory; and Congress
 shall have power to legislate and provide governments for the
 inhabitants of all territory belonging to the Confederate States, lying
 without the limits of the several Sates; and may permit them, at such
@@ -612,13 +647,12 @@ and the inhabitants of the several Confederate States and Territories
 shall have the right to take to such Territory any slaves lawfully held
 by them in any of the States or Territories of the Confederate States.
 
-(4) The Confederate States shall guarantee to every State that now is,
-or hereafter may become, a member of this Confederacy, a republican form
-of government; and shall protect each of them against invasion; and on
-application of the Legislature or of the Executive when the Legislature
-is not in session) against domestic violence.
+(4). The Confederate States shall guarantee to every State that now is, or hereafter may become, a member of this Confederacy,
+a republican form of government, and shall protect each of them against
+invasion; and on application of the legislature, or of the executive
+(when the Legislature is not in session) against domestic violence.
 
-### ARTICLE V
+## ARTICLE V
 
 Section I. (I) Upon the demand of any three States, legally assembled in
 their several conventions, the Congress shall summon a convention of all
@@ -626,7 +660,7 @@ the States, to take into consideration such amendments to the
 Constitution as the said States shall concur in suggesting at the time
 when the said demand is made; and should any of the proposed amendments
 to the Constitution be agreed on by the said convention, voting by
-States, and the same be ratified by the Legislatures of two- thirds of
+States, and the same be ratified by the Legislatures of two-thirds of
 the several States, or by conventions in two-thirds thereof, as the one
 or the other mode of ratification may be proposed by the general
 convention, they shall thenceforward form a part of this Constitution.
@@ -635,45 +669,45 @@ representation in the Senate.
 
 ### ARTICLE VI
 
-I. The Government established by this Constitution is the successor of
+(1). The Government established by this Constitution is the successor of
 the Provisional Government of the Confederate States of America, and all
 the laws passed by the latter shall continue in force until the same
 shall be repealed or modified; and all the officers appointed by the
 same shall remain in office until their successors are appointed and
 qualified, or the offices abolished.
 
-2. All debts contracted and engagements entered into before the
-adoption of this Constitution shall be as valid against the Confederate
-States under this Constitution, as under the Provisional Government.
+(2). All debts contracted and engagements entered into before the
+adoption of this constitution shall be as valid against the
+Confederate States under this Constitution, as under the Provisional Government.
 
-3. This Constitution, and the laws of the Confederate States made in
+(3). This Constitution, and the laws of the Confederate States made in
 pursuance thereof, and all treaties made, or which shall be made, under
 the authority of the Confederate States, shall be the supreme law of the
 land; and the judges in every State shall be bound thereby, anything in
 the constitution or laws of any State to the contrary notwithstanding.
 
-4. The Senators and Representatives before mentioned, and the members
-of the several State Legislatures, and all executive and judicial
-officers, both of the Confederate States and of the several States,
-shall be bound by oath or affirmation to support this Constitution; but
-no religious test shall ever be required as a qualification to any
-office or public trust under the Confederate States.
+(4). The Senators and Representatives before mentioned, and the members
+of the several state legislatures, and all executive and judicial
+officers, both of the Confederate States and of the several States, shall be
+bound by oath or affirmation, to support this constitution; but no
+religious test shall ever be required as a qualification to any office
+or public trust under the Confederate States.
 
-5. The enumeration, in the Constitution, of certain rights shall not be
+(5). The enumeration, in the Constitution, of certain rights shall not be
 construed to deny or disparage others retained by the people of the
 several States.
 
-6. The powers not delegated to the Confederate States by the
+(6). The powers not delegated to the Confederate States by the
 Constitution, nor prohibited by it to the States, are reserved to the
 States, respectively, or to the people thereof.
 
 ### ARTICLE VII
 
-I. The ratification of the conventions of five States shall be
+(l). The ratification of the conventions of five States shall be
 sufficient for the establishment of this Constitution between the States
 so ratifying the same.
 
-2. When five States shall have ratified this Constitution, in the
+(2). When five States shall have ratified this Constitution, in the
 manner before specified, the Congress under the Provisional Constitution
 shall prescribe the time for holding the election of President and Vice
 President; and for the meeting of the Electoral College; and for
@@ -684,58 +718,3 @@ assembling of such Congress, the Congress under the Provisional
 Constitution shall continue to exercise the legislative powers granted
 them; not extending beyond the time limited by the Constitution of the
 Provisional Government.
-
-Adopted unanimously by the Congress of the Confederate States of South
-Carolina, Georgia, Florida, Alabama, Mississippi, Louisiana, and Texas,
-sitting in convention at the capitol, the city of Montgomery, Ala., on
-the eleventh day of March, in the year eighteen hundred and Sixty-one.
-
-HOWELL COBB, President of the Congress.
-
-**South Carolina:** R. Barnwell Rhett, C. G. Memminger, Wm. Porcher
-Miles, James Chesnut, Jr., R. W. Barnwell, William W. Boyce, Lawrence M.
-Keitt, T. J. Withers.
-
-**Georgia:** Francis S. Bartow, Martin J. Crawford, Benjamin H. Hill,
-Thos. R. R. Cobb.
-
-**Florida:** Jackson Morton, J. Patton Anderson, Jas. B. Owens.
-
-**Alabama:** Richard W. Walker, Robt. H. Smith, Colin J. McRae, William
-P. Chilton, Stephen F. Hale, David P. Lewis, Tho. Fearn, Jno. Gill
-Shorter, J. L. M. Curry.
-
-**Mississippi:** Alex. M. Clayton, James T. Harrison, William S. Barry,
-W. S. Wilson, Walker Brooke, W. P. Harris, J. A. P. Campbell.
-
-**Louisiana:** Alex. de Clouet, C. M. Conrad, Duncan F. Kenner, Henry
-Marshall.
-
-**Texas:** John Hemphill, Thomas N. Waul, John H. Reagan, Williamson S.
-Oldham, Louis T. Wigfall, John Gregg, William Beck Ochiltree.
-
-  ---------------------------------------------------------------
-  Source:\
-   Richardson, James D.\
-   A Compilation of the Messages and Papers of the Confederacy\
-   Including the Diplomatic Correspondence 1861-1865\
-   Nashville : United States Publishing Company, 1905\
-  ---------------------------------------------------------------
-
-  ------------------------------- ------------------------------------------- ---------------------------------------------- -------------------------------------------- ----------------------------------------- ----------------------------------------- ----------------------------------------- ----------------------------------------- ----------------------------------------- ----------------------------------------- ------------------------------------
-  [Avalon Home](../default.asp)   [Document\                                  [Ancient \                                     [Medieval \                                  [15^th^ Century \                         [16^th^ Century \                         [17^th^ Century \                         [18^th^ Century \                         [19^th^ Century \                         [20^th^ Century \                         [21^st^ Century \
-                                   Collections](../subject_menus/major.asp)   4000bce - 399](../subject_menus/ancient.asp)   400 - 1399](../subject_menus/medieval.asp)   1400 - 1499](../subject_menus/15th.asp)   1500 - 1599](../subject_menus/16th.asp)   1600 - 1699](../subject_menus/17th.asp)   1700 - 1799](../subject_menus/18th.asp)   1800 - 1899](../subject_menus/19th.asp)   1900 - 1999](../subject_menus/20th.asp)   2000 -](../subject_menus/21st.asp)
-  ------------------------------- ------------------------------------------- ---------------------------------------------- -------------------------------------------- ----------------------------------------- ----------------------------------------- ----------------------------------------- ----------------------------------------- ----------------------------------------- ----------------------------------------- ------------------------------------
-
-© 2008 Lillian Goldman Law Library
-
-127 Wall Street, New Haven, CT 06511.
-
--   [Avalon Statement of Purpose](about/purpose.asp)
--   [Contact Us](http://www.law.yale.edu/library/3312.asp)
--   [Yale Law Library](http://library.law.yale.edu)
--   [University Library](http://www.library.yale.edu/)
--   [Yale Law School](http://www.law.yale.edu)
--   [Search Morris](http://morris.law.yale.edu/)
--   [Search Orbis](http://orbis.library.yale.edu/)
-
