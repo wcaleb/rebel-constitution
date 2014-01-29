@@ -39,6 +39,13 @@ me will seem significant to others (for example, the Avalon edition of
 the Confederate Constitution sometimes capitalizes "States" and "State"
 in places where its edition of the U.S. Constitution does not).
 
+On the other hand, I left numbers of subsections in because they draw attention
+to important insertions into the Confederate text, like the clauses related to
+the slave trade and territorial slavery in Section 9 of the Confederates'
+Article I, which bumped all of the other subsections up a number. Likewise,
+leaving the numbers in makes more visible the Confederates' decision to insert
+the U.S. Bill of Rights into the same section.
+
 My decisions make this project an intepretive act. You are welcome to
 inspect the changes more closely by looking at the commit histories for
 the individual Constitution files, which show the initial text as I got
@@ -57,6 +64,12 @@ I recommend that you read that post, drawn from McCurry's book
 their significance. But my other goal here is to let you explore the
 differences yourself, without annotations or extensive interpretive
 notes.
+
+You should also check out how [Matt
+Dickenson](http://mattdickenson.com/2013/02/01/constitution-as-code-civil-war-as-fork/)
+did the same thing in [his own
+repo](https://github.com/mcdickenson/const-usa-csa), but with different
+decisions about how much to tweak the two files.
 
   [conversation on Twitter]: https://twitter.com/YAppelbaum/status/414582442167521280
   [YAppelbaum]: http://twitter.com/YAppelbaum
